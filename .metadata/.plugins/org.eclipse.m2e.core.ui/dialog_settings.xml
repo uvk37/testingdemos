@@ -42,16 +42,10 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="Testing.testng"/>
-			<item value="testing.Practice_Project"/>
 		</list>
 		<list key="groupId">
-			<item value="Testing"/>
-			<item value="testing"/>
 		</list>
 		<list key="artifactId">
-			<item value="testng"/>
-			<item value="Practice-Project"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -67,10 +61,12 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="phase5project"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="Endproject_phase5"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
